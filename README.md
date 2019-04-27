@@ -1,3 +1,7 @@
+## Description:
+This is a practice react app which uses Unsplash API to display images. The goal was to understand the functionality of axios and implement 3rd part APIs with react.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
